@@ -1,4 +1,4 @@
 ### Practicing git and github 
-author pranay
-
+Author pranay
+<br>
 THIS IS MY FIRST PROJECT
